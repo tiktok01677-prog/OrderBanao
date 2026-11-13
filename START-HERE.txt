@@ -1,0 +1,12 @@
+ORDERBANAO — START HERE
+
+1. Open the orderbanao/ folder inside this ZIP.
+2. Upload all contents (index.html, assets/, sw.js, manifest.webmanifest, etc.) to a GitHub repository ROOT.
+3. GitHub repository Settings -> Pages -> Deploy from main / (root).
+4. Open your published HTTPS URL.
+5. Replace placeholder developer name & email in privacy/contact/terms/delete-data pages and assets/config.js.
+6. Enter your business profile in OrderBanao Settings.
+7. To try: Add Customer -> New Order -> Record Payment -> View Reports.
+8. BACK UP frequently. Order records are stored locally, not synced to your GitHub account.
+
+Android Studio Java WebView setup is a separate step. Read ANDROID-NOTES.md.
